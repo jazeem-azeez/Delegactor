@@ -1,3 +1,3 @@
 # Delegactor
 
-Got Moved to [AiCorp](https://github.com/AICorpGlobal/Delegactor/blob/master/)
+Got Moved to [AiCorp/Delegactor](https://github.com/AICorpGlobal/Delegactor/blob/master/)
